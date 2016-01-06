@@ -665,24 +665,97 @@
     <frame ID="Image1131" Path="Image1130.jpg" LastProcess="None" />
     <frame ID="Image1132" Path="Image1131.jpg" LastProcess="None" />
     <frame ID="Image1133" Path="Image1132.jpg" LastProcess="None" />
+    <frame ID="Image1135" Path="Image1134.jpg" LastProcess="None" />
+    <frame ID="Image1136" Path="Image1135.jpg" LastProcess="None" />
+    <frame ID="Image1137" Path="Image1136.jpg" LastProcess="None" />
+    <frame ID="Image1138" Path="Image1137.jpg" LastProcess="None" />
+    <frame ID="Image1139" Path="Image1138.jpg" LastProcess="None" />
+    <frame ID="Image1140" Path="Image1139.jpg" LastProcess="None" />
+    <frame ID="Image1141" Path="Image1140.jpg" LastProcess="None" />
+    <frame ID="Image1142" Path="Image1141.jpg" LastProcess="None" />
+    <frame ID="Image1143" Path="Image1142.jpg" LastProcess="None" />
+    <frame ID="Image1144" Path="Image1143.jpg" LastProcess="None" />
+    <frame ID="Image1145" Path="Image1144.jpg" LastProcess="None" />
+    <frame ID="Image1146" Path="Image1145.jpg" LastProcess="None" />
+    <frame ID="Image1147" Path="Image1146.jpg" LastProcess="None" />
+    <frame ID="Image1148" Path="Image1147.jpg" LastProcess="None" />
+    <frame ID="Image1149" Path="Image1148.jpg" LastProcess="None" />
+    <frame ID="Image1150" Path="Image1149.jpg" LastProcess="None" />
+    <frame ID="Image1151" Path="Image1150.jpg" LastProcess="None" />
+    <frame ID="Image1152" Path="Image1151.jpg" LastProcess="None" />
+    <frame ID="Image1153" Path="Image1152.jpg" LastProcess="None" />
+    <frame ID="Image1154" Path="Image1153.jpg" LastProcess="None" />
+    <frame ID="Image1159" Path="Image1159.jpg" LastProcess="None" />
+    <frame ID="Image1160" Path="Image1160.jpg" LastProcess="None" />
+    <frame ID="Image1161" Path="Image1161.jpg" LastProcess="None" />
+    <frame ID="Image1162" Path="Image1162.jpg" LastProcess="None" />
+    <frame ID="Image1163" Path="Image1163.jpg" LastProcess="None" />
+    <frame ID="Image1164" Path="Image1164.jpg" LastProcess="None" />
+    <frame ID="Image1165" Path="Image1165.jpg" LastProcess="None" />
+    <frame ID="Image1166" Path="Image1166.jpg" LastProcess="None" />
+    <frame ID="Image1167" Path="Image1167.jpg" LastProcess="None" />
+    <frame ID="Image1168" Path="Image1168.jpg" LastProcess="None" />
+    <frame ID="Image1170" Path="Image1170.jpg" LastProcess="None" />
+    <frame ID="Image1171" Path="Image1171.jpg" LastProcess="None" />
+    <frame ID="Image1172" Path="Image1172.jpg" LastProcess="None" />
+    <frame ID="Image1173" Path="Image1173.jpg" LastProcess="None" />
+    <frame ID="Image1174" Path="Image1174.jpg" LastProcess="None" />
+    <frame ID="Image1175" Path="Image1175.jpg" LastProcess="None" />
+    <frame ID="Image1176" Path="Image1176.jpg" LastProcess="None" />
+    <frame ID="Image1177" Path="Image1177.jpg" LastProcess="None" />
+    <frame ID="Image1178" Path="Image1178.jpg" LastProcess="None" />
+    <frame ID="Image1179" Path="Image1179.jpg" LastProcess="None" />
+    <frame ID="Image1180" Path="Image1180.jpg" LastProcess="None" />
+    <frame ID="Image1181" Path="Image1181.jpg" LastProcess="None" />
+    <frame ID="Image1183" Path="Image1183.jpg" LastProcess="None" />
+    <frame ID="Image1184" Path="Image1184.jpg" LastProcess="None" />
+    <frame ID="Image1185" Path="Image1185.jpg" LastProcess="None" />
+    <frame ID="Image1186" Path="Image1186.jpg" LastProcess="None" />
+    <frame ID="Image1187" Path="Image1187.jpg" LastProcess="None" />
+    <frame ID="Image1188" Path="Image1188.jpg" LastProcess="None" />
+    <frame ID="Image1189" Path="Image1189.jpg" LastProcess="None" />
+    <frame ID="Image1190" Path="Image1190.jpg" LastProcess="None" />
+    <frame ID="Image1191" Path="Image1191.jpg" LastProcess="None" />
+    <frame ID="Image1192" Path="Image1192.jpg" LastProcess="None" />
+    <frame ID="Image1193" Path="Image1193.jpg" LastProcess="None" />
+    <frame ID="Image1194" Path="Image1194.jpg" LastProcess="None" />
+    <frame ID="Image1195" Path="Image1195.jpg" LastProcess="None" />
+    <frame ID="Image1196" Path="Image1196.jpg" LastProcess="None" />
+    <frame ID="Image1197" Path="Image1197.jpg" LastProcess="None" />
+    <frame ID="Image1198" Path="Image1198.jpg" LastProcess="None" />
+    <frame ID="Image1199" Path="Image1199.jpg" LastProcess="None" />
+    <frame ID="Image1200" Path="Image1200.jpg" LastProcess="None" />
+    <frame ID="Image1201" Path="Image1201.jpg" LastProcess="None" />
+    <frame ID="Image1202" Path="Image1202.jpg" LastProcess="None" />
+    <frame ID="Image1203" Path="Image1203.jpg" LastProcess="None" />
+    <frame ID="Image1204" Path="Image1204.jpg" LastProcess="None" />
+    <frame ID="Image1205" Path="Image1205.jpg" LastProcess="None" />
+    <frame ID="Image1206" Path="Image1206.jpg" LastProcess="None" />
   </frames>
   <Sounds1>
-    <Sound1 ID="c08b3dec791844e9" Name="AMBIENCE-LIGHT-RUMBLE" Location="CITY.bin" IsFile="false" ParentImageId="272" CoveredFramesCount="241" duration="15.067" VolumeLevel="1" />
-    <Sound1 ID="072294e562d44eed" Name="INDOOR-MED-AIRPORT" Location="CROWD.bin" IsFile="false" ParentImageId="157" CoveredFramesCount="107" duration="6.2669999999999995" VolumeLevel="5" />
-    <Sound1 ID="cb683b98cdc041f7" Name="CITY11-HEAVY-DRY" Location="TRAFFIC.bin" IsFile="false" ParentImageId="0" CoveredFramesCount="258" duration="15.799999999999999" VolumeLevel="5" />
-    <Sound1 ID="e6b9391c0dd4435b" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="255" CoveredFramesCount="35" duration="2.1999999999999997" VolumeLevel="5" />
-    <Sound1 ID="0438824626624a9c" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="270" CoveredFramesCount="35" duration="2.1999999999999997" VolumeLevel="5" />
-    <Sound1 ID="ef31fd69f9f44747" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="281" CoveredFramesCount="35" duration="2.1999999999999997" VolumeLevel="5" />
-    <Sound1 ID="d1da71af2dd14fd4" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="323" CoveredFramesCount="35" duration="2.1999999999999997" VolumeLevel="5" />
-    <Sound1 ID="37321bd5a60e476f" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="332" CoveredFramesCount="35" duration="2.1999999999999997" VolumeLevel="5" />
-    <Sound1 ID="8bb0b765d8cc4e8d" Name="MACHINE-M12-BURST" Location="GUN.bin" IsFile="false" ParentImageId="352" CoveredFramesCount="7" duration="0.39999999999999997" VolumeLevel="5" />
-    <Sound1 ID="fdb361160fdb4201" Name="POLICE-EXIT-FST-SIREN" Location="AUTO.bin" IsFile="false" ParentImageId="494" CoveredFramesCount="169" duration="9.9409999999999989" VolumeLevel="3" />
-    <Sound1 ID="7ef99fe9664a4851" Name="FERR05-EXT-DOOR-OPEN" Location="AUTO.bin" IsFile="false" ParentImageId="231" CoveredFramesCount="9" duration="0.529" VolumeLevel="5" />
+    <Sound1 ID="dcdf3771e40842de" Name="AMBIENCE-LIGHT-RUMBLE" Location="CITY.bin" IsFile="false" ParentImageId="272" CoveredFramesCount="241" duration="14.176" VolumeLevel="1" />
+    <Sound1 ID="5d39225fedb246fa" Name="INDOOR-MED-AIRPORT" Location="CROWD.bin" IsFile="false" ParentImageId="157" CoveredFramesCount="107" duration="6.294" VolumeLevel="5" />
+    <Sound1 ID="67b76924fe014a4f" Name="CITY11-HEAVY-DRY" Location="TRAFFIC.bin" IsFile="false" ParentImageId="0" CoveredFramesCount="258" duration="15.176" VolumeLevel="5" />
+    <Sound1 ID="158ecbe01d0d4864" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="255" CoveredFramesCount="35" duration="2.0589999999999997" VolumeLevel="5" />
+    <Sound1 ID="c15fc72627d54ee7" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="270" CoveredFramesCount="35" duration="2.0589999999999997" VolumeLevel="5" />
+    <Sound1 ID="990d5e3e9d5e4541" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="281" CoveredFramesCount="35" duration="2.0589999999999997" VolumeLevel="5" />
+    <Sound1 ID="5680e17108454872" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="323" CoveredFramesCount="35" duration="2.0589999999999997" VolumeLevel="5" />
+    <Sound1 ID="88fe84eed692499d" Name="HAND-357-1-SHOT" Location="GUN.bin" IsFile="false" ParentImageId="332" CoveredFramesCount="35" duration="2.0589999999999997" VolumeLevel="5" />
+    <Sound1 ID="d1546af87383416b" Name="MACHINE-M12-BURST" Location="GUN.bin" IsFile="false" ParentImageId="352" CoveredFramesCount="7" duration="0.412" VolumeLevel="5" />
+    <Sound1 ID="0f2e7185e13541d8" Name="POLICE-EXIT-FST-SIREN" Location="AUTO.bin" IsFile="false" ParentImageId="494" CoveredFramesCount="169" duration="9.9409999999999989" VolumeLevel="3" />
+    <Sound1 ID="0040b203678b4063" Name="FERR05-EXT-DOOR-OPEN" Location="AUTO.bin" IsFile="false" ParentImageId="231" CoveredFramesCount="9" duration="0.529" VolumeLevel="5" />
+    <Sound1 ID="5a0e517f8d7647ab" Name="SINGLE-HIT3" Location="AXE.bin" IsFile="false" ParentImageId="667" CoveredFramesCount="4" duration="0.235" VolumeLevel="5" />
+    <Sound1 ID="25c948a0f618434e" Name="HUMAN-CONCRETE1" Location="BODYFALL.bin" IsFile="false" ParentImageId="615" CoveredFramesCount="7" duration="0.412" VolumeLevel="5" />
+    <Sound1 ID="3efb233f8d4c471a" Name="HUMAN-CONCRETE1" Location="BODYFALL.bin" IsFile="false" ParentImageId="623" CoveredFramesCount="7" duration="0.412" VolumeLevel="5" />
+    <Sound1 ID="b8be56c3ac094910" Name="HUMAN-CONCRETE4" Location="BODYFALL.bin" IsFile="false" ParentImageId="632" CoveredFramesCount="5" duration="0.294" VolumeLevel="5" />
+    <Sound1 ID="c534f58bf2034790" Name="HUMAN-CONCRETE1" Location="BODYFALL.bin" IsFile="false" ParentImageId="647" CoveredFramesCount="7" duration="0.412" VolumeLevel="5" />
+    <Sound1 ID="363eb51cc73f4018" Name="CON-SNKR-JUMP-FEM" Location="FOOTSTEP.bin" IsFile="false" ParentImageId="621" CoveredFramesCount="32" duration="1.882" VolumeLevel="5" />
+    <Sound1 ID="13a1b2e986bf4928" Name="CON-SNKR-JUMP-FEM" Location="FOOTSTEP.bin" IsFile="false" ParentImageId="637" CoveredFramesCount="32" duration="1.882" VolumeLevel="3" />
   </Sounds1>
   <Musics>
-    <Music ID="105ce4876f8a4d72" Name="Relaxing Keyboard Typing Noise" Location="11.mp3" IsFile="true" ParentImageId="362" CoveredFramesCount="50" duration="2.941" VolumeLevel="5" />
-    <Music ID="cadf0ca9da5f4714" Name="Sound Effects Human Crowd Mumbling 02" Location="12.mp3" IsFile="true" ParentImageId="363" CoveredFramesCount="49" duration="2.8819999999999997" VolumeLevel="5" />
-    <Music ID="a2f149922a24485d" Name="XCOM" Location="13.mp3" IsFile="true" ParentImageId="361" CoveredFramesCount="302" duration="17.765" VolumeLevel="5" />
+    <Music ID="986eeddfa15d4230" Name="XCOM" Location="87.mp3" IsFile="true" ParentImageId="359" CoveredFramesCount="370" duration="21.765" VolumeLevel="5" />
+    <Music ID="ca157aee73ab4ec9" Name="Sound Effects Human Crowd Mumbling 02" Location="88.mp3" IsFile="true" ParentImageId="362" CoveredFramesCount="48" duration="2.824" VolumeLevel="5" />
+    <Music ID="7077e278b2b840aa" Name="Relaxing Keyboard Typing Noise" Location="89.mp3" IsFile="true" ParentImageId="361" CoveredFramesCount="50" duration="2.941" VolumeLevel="5" />
   </Musics>
   <Output OutputType="MP4" OutputFile="iKITMovie.Model.Details" FrameRate="17" FrameHeight="600" FrameWidth="800" />
 </IkitMovieProject>
